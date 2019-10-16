@@ -8,20 +8,20 @@ body {
   padding: 10px;
 }
 
-.blue {
+.wrapper {
   width: 328px;
   margin: 40px 20px;
   background-color: #3c8dc0;
 }
 
-.orange {
+.inner {
   background-color: #ffa500;
 }
 
-.text {
+.content {
   background-color: #ddd;
 }
 
-#qa-block {
+.top-box {
   margin: 20px;
 }
